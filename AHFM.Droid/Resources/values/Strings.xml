@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">AHFM</string>
+  <string name="NotificationText">This is a test</string>
+  <string name="Preparing">Loading...</string>
+  <string name="Prepared">Ready</string>
+  <string name="Started">Playing</string>
+  <string name="Stopped">Stopped</string>
+  <string name="Play">Play</string>
+  <string name="Stop">Stop</string>
+</resources>
